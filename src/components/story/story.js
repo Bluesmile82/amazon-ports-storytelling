@@ -2,7 +2,7 @@ import React from 'react';
 import cx from 'classnames';
 import Chapter from '../chapter/chapter';
 import { useTranslation } from 'react-i18next';
-import './story.scss';
+import './story.css';
 
 const alignments = {
   left: 'lefty',

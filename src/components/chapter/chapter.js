@@ -1,6 +1,6 @@
 import React from 'react';
 import cx from 'classnames';
-import './chapter.scss';
+import './chapter.css';
 import { useTranslation } from 'react-i18next';
 
 function Chapter({ id, theme, title, image, images, description, currentChapterId, legend, sources }) {
